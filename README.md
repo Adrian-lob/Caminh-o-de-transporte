@@ -5,7 +5,7 @@ Um jogo educativo feito com [p5.js](https://p5js.org/), criado para o tema **Agr
 
 ## 🎮 Sobre o Jogo
 
-Neste jogo, você controla um **trator** no campo e deve coletar alimentos (como milho e frutas) e entregá-los na **cidade**. A cada entrega, você ganha pontos. Mas cuidado: o tempo é limitado!
+Neste jogo, você controla um **caminhão** no campo e deve coletar alimentos (como milho e frutas) e entregá-los na **cidade**. A cada entrega, você ganha pontos. Mas cuidado: o tempo é limitado!
 
 ### Objetivos:
 - Coletar os alimentos espalhados pelo campo.
@@ -16,7 +16,7 @@ Neste jogo, você controla um **trator** no campo e deve coletar alimentos (como
 
 ## 🕹️ Controles
 
-- **Setas do teclado**: mover o trator
+- **Setas do teclado**: mover o caminhão
 - **Objetivo**: coletar os itens e entregá-los na cidade (lado cinza da tela)
 
 ---
